@@ -1,0 +1,2 @@
+def find_unique_elements(lst):
+    return len(set(lst))
